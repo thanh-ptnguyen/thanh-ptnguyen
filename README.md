@@ -24,7 +24,7 @@ I’m a Marketing & Operations professional transitioning into **Data Analytics*
 
 ## 📊 Featured Projects
 
-### <a href="https://github.com/thanh-ptnguyen/OCD-Patient-Dataset-Demographics-Clinical-Data-Analysis?tab=readme-ov-file#-ocd-patient-data-analysis--sql-portfolio-project">OCD Patient Data Analysis | SQL & PowerBI</a>
+### <a href="https://github.com/thanh-ptnguyen/OCD-Patient-Dataset-Demographics-Clinical-Data-Analysis?tab=readme-ov-file#-ocd-patient-data-analysis--sql-portfolio-project">OCD Patient Data Analysis | mySQL & PowerBI</a>
 This project analyzes OCD patient data to identify key demographic and clinical factors influencing symptom severity and treatment outcomes. Using exploratory data analysis and visualization tools, the project provides actionable insights to support data-driven decisions in mental healthcare.
 
 ---
