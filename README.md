@@ -25,32 +25,8 @@ I’m a Marketing & Operations professional transitioning into **Data Analytics*
 
 ## 📊 Featured Projects
 
-<details>
-<summary>📈 Marketing Performance Dashboard (Tableau)</summary>
-
-- Built interactive dashboard to track traffic, conversions, and campaign ROI  
-- Identified high-performing channels → increased conversions by 35%  
-- Visualized KPI trends for business decision-making  
-
-</details>
-
-<details>
-<summary>🧠 Customer Segmentation Analysis (SQL)</summary>
-
-- Queried customer data using SQL to identify behavior patterns  
-- Segmented users based on engagement & spending  
-- Provided insights to optimize marketing targeting  
-
-</details>
-
-<details>
-<summary>📉 Website SEO & Performance Analysis</summary>
-
-- Analyzed website traffic & SEO metrics  
-- Increased organic traffic by 60%  
-- Improved website performance by 45%  
-
-</details>
+### <a href="https://github.com/thanh-ptnguyen/OCD-Patient-Dataset-Demographics-Clinical-Data-Analysis?tab=readme-ov-file#-ocd-patient-data-analysis--sql-portfolio-project">OCD Patient Data Analysis | SQL Portfolio Project</a>
+This project analyzes OCD patient data to identify key demographic and clinical factors influencing symptom severity and treatment outcomes. Using exploratory data analysis and visualization tools, the project provides actionable insights to support data-driven decisions in mental healthcare.
 
 ---
 
